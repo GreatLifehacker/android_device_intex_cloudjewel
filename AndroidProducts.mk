@@ -16,4 +16,4 @@
 
 LOCAL_PATH := device/intex/cloudjewel/
 
-PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_A160.mk
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_cloudjewel.mk
