@@ -1,0 +1,8 @@
+/dev/block/mmcblk0p3   /protect_f  ext4  rw  0  0
+/dev/block/mmcblk0p4   /protect_s  ext4  rw  0  0
+/dev/block/mmcblk0p18  /nvdata     ext4  rw  0  0
+/dev/block/mmcblk0p20  /system     ext4  rw  0  0
+/dev/block/mmcblk0p21  /cache      ext4  rw  0  0
+/dev/block/mmcblk0p22  /data       ext4  rw  0  0
+/external_sd           auto        rw    0   0  
+/usbotg                auto        rw    0   0  
